@@ -27,6 +27,13 @@
     ]
   },
   "projects": {
+    "learn": {
+      "tags": []
+    },
+    "learn-e2e": {
+      "tags": [],
+      "implicitDependencies": ["learn"]
+    },
     "shell": {
       "tags": []
     },
